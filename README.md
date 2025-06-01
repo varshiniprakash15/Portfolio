@@ -67,4 +67,8 @@ For example:
 
 Vercel: Go to Project Settings → Domains → Add Domain
 
+<<<<<<< HEAD
 Netlify: Go to Site Settings → Domain Management → Add Custom Domain
+=======
+Netlify: Go to Site Settings → Domain Management → Add Custom Domain
+>>>>>>> c1d8606 (Added favicon)
